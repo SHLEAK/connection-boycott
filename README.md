@@ -94,7 +94,7 @@ Press `Ctrl+C` to stop monitoring:
 ```
 
 ## How It Works
-![diagram of code](explanation.png)
+![diagram of code](explained.png)
 
 The program follows this basic process:
 
